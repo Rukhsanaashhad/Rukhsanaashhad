@@ -8,8 +8,7 @@ Crafting Intelligent Interfaces & Autonomous Systems
 
 
 ## 🌟 About Me
-```javascript
-// Ashhad Khan - Developer Profile
+
 const developer = {
   name: "Muhammad Ashhad Khan",
   title: "Frontend + AI Agentic Developer",
@@ -21,43 +20,9 @@ const developer = {
     ai: ["LangChain", "CrewAI", "OpenAI API", "RAG Systems"],
     backend: ["FastAPI", "Node.js", "PostgreSQL", "Redis"],
     tools: ["Git", "Docker", "Vercel", "Figma"]
-  },
-
-  // Current Focus
-  currentProjects: [
-    "Building autonomous AI agents",
-    "Designing immersive user interfaces",
-    "Creating intelligent web applications",
-    "Deploying production-ready solutions"
-  ],
-
-  // Development Philosophy
-  philosophy: [
-    "Interfaces should be intuitive",
-    "AI should augment human ability",
-    "Code should be clean and maintainable",
-    "User experience comes first"
-  ],
-
-  // Quick Stats
-  stats: {
-    yearsExperience: "5+ years in development",
-    projectsShipped: "50+ applications",
-    aiAgentsBuilt: "10+ production agents",
-    githubStars: "100+ across repositories"
   }
-};
 
-// Output
-console.log(`Hey! I'm ${developer.name}`);
-console.log(` ${developer.title}`);
-console.log(` ${developer.location}`);
-console.log(` Currently: ${developer.currentProjects[0]}`);
-console.log(` Philosophy: ${developer.philosophy[0]}`);
 
-  https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,12&height=120&section=footer
-
-```
 
 ## Frontend Mastery 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
