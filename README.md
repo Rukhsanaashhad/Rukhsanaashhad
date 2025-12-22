@@ -8,20 +8,55 @@ Crafting Intelligent Interfaces & Autonomous Systems
 
 
 ## 🌟 About Me
+## 🌟 About Me
 
-const developer = {
-  name: "Muhammad Ashhad Khan",
-  title: "Frontend + AI Agentic Developer",
-  location: "Remote • Global",
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,12&height=180&section=header&text=Muhammad%20Ashhad%20Khan&fontSize=38&animation=twinkling&fontAlignY=42" />
+</p>
 
-  // Technical Expertise
-  expertise: {
-    frontend: ["React", "Next.js 14", "TypeScript", "TailwindCSS"],
-    ai: ["LangChain", "CrewAI", "OpenAI API", "RAG Systems"],
-    backend: ["FastAPI", "Node.js", "PostgreSQL", "Redis"],
-    tools: ["Git", "Docker", "Vercel", "Figma"]
-  }
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00DDEB&center=true&vCenter=true&multiline=true&width=700&lines=Frontend+%2B+AI+Agentic+Developer;Remote+%E2%80%A2+Global;Building+Intelligent+Interfaces+%26+Autonomous+Agents;Great+UX+%2B+Smart+AI+=+Impactful+Products" />
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/SCrbsM5f3JfrH0G1l4/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/Lq0h93752f6J9tG1PD/giphy.gif" width="100" />
+</p>
+
+<p align="center">
+  <b>Developer Profile</b>
+</p>
+
+<table align="center">
+  <tr>
+    <td><b>Name</b></td>
+    <td>Muhammad Ashhad Khan</td>
+  </tr>
+  <tr>
+    <td><b>Title</b></td>
+    <td>Frontend + AI Agentic Developer</td>
+  </tr>
+  <tr>
+    <td><b>Location</b></td>
+    <td>Remote • Global</td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>Technical Expertise</b><br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,threejs&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=langchain,openai,groq,crewai,pinecone&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=git,docker,vercel,figma&theme=dark" />
+</p>
+
+<p align="center">
+  <i>"The best AI is invisible to the user 🚀"</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,12&height=120&section=footer" />
+</p>
 
 
 ## Frontend Mastery 
