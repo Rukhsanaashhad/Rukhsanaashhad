@@ -8,55 +8,6 @@ Crafting Intelligent Interfaces & Autonomous Systems
 
 
 ## 🌟 About Me
-## 🌟 About Me
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,12&height=180&section=header&text=Muhammad%20Ashhad%20Khan&fontSize=38&animation=twinkling&fontAlignY=42" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00DDEB&center=true&vCenter=true&multiline=true&width=700&lines=Frontend+%2B+AI+Agentic+Developer;Remote+%E2%80%A2+Global;Building+Intelligent+Interfaces+%26+Autonomous+Agents;Great+UX+%2B+Smart+AI+=+Impactful+Products" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SCrbsM5f3JfrH0G1l4/giphy.gif" width="120" />
-  <img src="https://media.giphy.com/media/Lq0h93752f6J9tG1PD/giphy.gif" width="100" />
-</p>
-
-<p align="center">
-  <b>Developer Profile</b>
-</p>
-
-<table align="center">
-  <tr>
-    <td><b>Name</b></td>
-    <td>Muhammad Ashhad Khan</td>
-  </tr>
-  <tr>
-    <td><b>Title</b></td>
-    <td>Frontend + AI Agentic Developer</td>
-  </tr>
-  <tr>
-    <td><b>Location</b></td>
-    <td>Remote • Global</td>
-  </tr>
-</table>
-
-<p align="center">
-  <b>Technical Expertise</b><br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,threejs&theme=dark" /><br><br>
-  <img src="https://skillicons.dev/icons?i=langchain,openai,groq,crewai,pinecone&theme=dark" /><br><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis&theme=dark" /><br><br>
-  <img src="https://skillicons.dev/icons?i=git,docker,vercel,figma&theme=dark" />
-</p>
-
-<p align="center">
-  <i>"The best AI is invisible to the user 🚀"</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,12&height=120&section=footer" />
-</p>
 
 
 ## Frontend Mastery 
@@ -70,6 +21,20 @@ Crafting Intelligent Interfaces & Autonomous Systems
 
 ## Tools & Platforms
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></div>
+
+## 📈 GitHub Analytics
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=Rukhsanaashhad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24&hide_title=false	https://github-readme-stats.vercel.app/api/top-langs/?username=Rukhsanaashhad&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss
+
+https://github-readme-streak-stats.herokuapp.com/?user=Rukhsanaashhad&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727
+
+
+https://github-readme-activity-graph.vercel.app/graph?username=Rukhsanaashhad&theme=react-dark&hide_border=true&area=true&height=300&custom_title=My%2520Coding%2520Journey
+
+
+https://github-profile-trophy.vercel.app/?username=Rukhsanaashhad&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4
+
+</div>
 
 
 
