@@ -7,16 +7,14 @@ Crafting Intelligent Interfaces & Autonomous Systems
 </div>
 
 
-const ashhad = {
-  pronouns: "He/Him",
-  role: "Frontend + AI Agentic Developer",
-  passion: "Building intelligent interfaces & autonomous agents",
-  philosophy: "Great UX + Smart AI = Impactful Products",
-  currently: [
-    "Architecting multi-agent AI systems",
-    "Designing immersive frontend experiences",
-    "Building production RAG pipelines",
-    "Experimenting with voice AI interfaces"
-  ],
-  funFact: "Believes the best AI is invisible to the user"
-};
+🛠 Tech Arsenal
+<div align="center">
+Frontend Mastery
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+AI & Agent Development
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logo=ai&logoColor=white" alt="CrewAI" /> <img src="https://img.shields.io/badge/Groq-00FF88?style=for-the-badge&logo=lightning&logoColor=black" alt="Groq" /> <img src="https://img.shields.io/badge/Pinecone-430098?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+Backend & DevOps
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+Tools & Platforms
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></div>
+
