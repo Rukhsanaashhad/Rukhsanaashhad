@@ -8,3 +8,18 @@ https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?width=280&height=160&f
 "Transforming ideas into intelligent, production-ready experiences"
 
 </div>
+
+🌟 About Me
+const ashhad = {
+  pronouns: "He/Him",
+  role: "Frontend + AI Agentic Developer",
+  passion: "Building intelligent interfaces & autonomous agents",
+  philosophy: "Great UX + Smart AI = Impactful Products",
+  currently: [
+    "Architecting multi-agent AI systems",
+    "Designing immersive frontend experiences",
+    "Building production RAG pipelines",
+    "Experimenting with voice AI interfaces"
+  ],
+  funFact: "Believes the best AI is invisible to the user"
+};
