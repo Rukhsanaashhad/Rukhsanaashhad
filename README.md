@@ -5,11 +5,11 @@
 <h3 align="center">Crafting Beautiful Frontends • Building Smart AI Agents • Full-Stack Magic</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ddeb&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,12&height=200&section=header&text=Muhammad%20Ashhad%20Khan&fontSize=42&fontAlignY=38&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/SCrbsM5f3JfrH0G1l4/giphy.gif" width="120" />
   Beautiful UIs • Smart Agents • Real-World Deployments
 </p>
 
@@ -31,7 +31,7 @@ I'm **Muhammad Ashhad Khan** — a passionate **Frontend + AI Agentic Developer*
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,html,css,nodejs,fastapi,python,langchain,openai,git,github,vercel,netlify,vscode,figma&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,html,css,nodejs,fastapi,python,langchain,openai,git,github,vercel,netlify,vscode,figma&perline=9&theme=dark" />
 </p>
 
 ---
@@ -46,12 +46,12 @@ I'm **Muhammad Ashhad Khan** — a passionate **Frontend + AI Agentic Developer*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rukhsanaashhad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rukhsanaashhad&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukhsanaashhad&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rukhsanaashhad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Rukhsanaashhad&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukhsanaashhad&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ I'm **Muhammad Ashhad Khan** — a passionate **Frontend + AI Agentic Developer*
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rukhsanaashhad.Rukhsanaashhad" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rukhsanaashhad.Rukhsanaashhad&format=true" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ I'm **Muhammad Ashhad Khan** — a passionate **Frontend + AI Agentic Developer*
 
 ## 📫 Let's Connect
 
-Modern frontend, AI agents, ya next big idea pe kaam karna hai? Let's build together!
+Modern frontend, AI agents, ya next big idea pe kaam? Let's build together!
 
 <p align="center">
   <b>Projects below do the talking 👇</b><br>
@@ -85,5 +85,5 @@ Modern frontend, AI agents, ya next big idea pe kaam karna hai? Let's build toge
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ddeb&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,12&height=150&section=footer" />
 </p>
