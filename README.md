@@ -6,42 +6,6 @@ Crafting Intelligent Interfaces & Autonomous Systems
 
 </div>
 
-
-## 🌟 About Me
-<div align="center">
-Looking to build something amazing?
-I'm the right fit for projects that involve:
-
-🏗️ Complex problems needing creative solutions
-
-🌟 Products that make a real impact
-
-🚀 Pushing boundaries of what's possible
-
-👥 Teams that value craftsmanship
-
-📚 Opportunities for growth and learning
-
-// Perfect project criteria
-const idealProject = {
-  hasChallenge: true,
-  createsImpact: true,
-  encouragesInnovation: true,
-  valuesCollaboration: true,
-  offersGrowth: true
-};
-
-if (idealProject.hasChallenge && idealProject.createsImpact) {
-  console.log("🎯 We should definitely work together!");
-}
-
-Let's connect and build something extraordinary!
-
-</div>
-
-
-
-
 ## Frontend Mastery 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
 
@@ -54,23 +18,3 @@ Let's connect and build something extraordinary!
 ## Tools & Platforms
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></div>
 
-## 📫 Ready to Start?
-<div align="center">
-Reach out if you're working on:
-✅ AI-powered applications
-✅ Cutting-edge web experiences  
-✅ Complex frontend challenges
-✅ Intelligent agent systems
-✅ Innovative product MVPs
-Get in touch:
-
-https://img.shields.io/badge/SEND_EMAIL-hello@ashhad.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/VIEW_PORTFOLIO-ashhad.dev-000000?style=for-the-badge&logo=vercel&logoColor=white
-
-Or let's connect on social:
-
-https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=flat-square&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-FOLLOW-1DA1F2?style=flat-square&logo=twitter&logoColor=white
-https://img.shields.io/badge/GitHub-STAR_ME-181717?style=flat-square&logo=github&logoColor=white
-
-</div>
