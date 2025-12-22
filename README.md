@@ -9,52 +9,38 @@ Crafting Intelligent Interfaces & Autonomous Systems
 
 ## 🌟 About Me
 
-// Ashhad Khan - Developer Profile
-const developer = {
-  name: "Muhammad Ashhad Khan",
-  title: "Frontend + AI Agentic Developer",
-  location: "Remote • Global",
-  
-  // Technical Expertise
-  expertise: {
-    frontend: ["React", "Next.js 14", "TypeScript", "TailwindCSS"],
-    ai: ["LangChain", "CrewAI", "OpenAI API", "RAG Systems"],
-    backend: ["FastAPI", "Node.js", "PostgreSQL", "Redis"],
-    tools: ["Git", "Docker", "Vercel", "Figma"]
-  },
-  
-  // Current Focus
-  currentProjects: [
-    "🤖 Building autonomous AI agents",
-    "🎨 Designing immersive user interfaces",
-    "🧠 Creating intelligent web applications",
-    "🚀 Deploying production-ready solutions"
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,12&height=180&section=header&text=Muhammad%20Ashhad%20Khan&fontSize=38&animation=twinkling&fontAlignY=42" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00DDEB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Frontend+%2B+AI+Agentic+Developer;Building+Intelligent+Interfaces;Autonomous+Agents+%26+Immersive+UX;Great+UX+%2B+Smart+AI+=+Impact" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/SCrbsM5f3JfrH0G1l4/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/Lq0h93752f6J9tG1PD/giphy.gif" width="100" /> <!-- AI/robot wave -->
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644157-9656d0f7-c6c0-43be-9c9d-9e3e3e9e3e9e.gif" width="600" /> <!-- particles/floating animation for extra wow -->
+</p>
+
+```javascript
+const ashhad = {
+  pronouns: "He/Him",
+  role: "Frontend + AI Agentic Developer",
+  passion: "Building intelligent interfaces & autonomous agents",
+  philosophy: "Great UX + Smart AI = Impactful Products",
+  currently: [
+    "Architecting multi-agent AI systems",
+    "Designing immersive frontend experiences",
+    "Building production RAG pipelines",
+    "Experimenting with voice AI interfaces"
   ],
-  
-  // Development Philosophy
-  philosophy: [
-    "Interfaces should be intuitive",
-    "AI should augment human ability",
-    "Code should be clean and maintainable",
-    "User experience comes first"
-  ],
-  
-  // Quick Stats
-  stats: {
-    yearsExperience: "5+ years in development",
-    projectsShipped: "50+ applications",
-    aiAgentsBuilt: "10+ production agents",
-    githubStars: "100+ across repositories"
-  }
+  funFact: "Believes the best AI is invisible to the user 🚀"
 };
-
-// Output
-console.log(`👋 Hey! I'm ${developer.name}`);
-console.log(`🎯 ${developer.title}`);
-console.log(`📍 ${developer.location}`);
-console.log(`🚀 Currently: ${developer.currentProjects[0]}`);
-console.log(`💡 Philosophy: ${developer.philosophy[0]}`);
-
 
 ## Frontend Mastery 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
