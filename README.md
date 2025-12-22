@@ -8,79 +8,52 @@ Crafting Intelligent Interfaces & Autonomous Systems
 
 
 ## 🌟 About Me
-class AshhadKhan {
-  constructor() {
-    this.identity = {
-      name: "Muhammad Ashhad Khan",
-      pronouns: ["He/Him", "They/Them"],
-      role: "Frontend + AI Agentic Developer",
-      title: "Digital Alchemist",
-      location: "Remote • Global"
-    };
-    
-    this.specialties = {
-      frontend: ["React", "Next.js 14", "TypeScript", "TailwindCSS", "Three.js"],
-      ai: ["LangChain", "CrewAI", "OpenAI", "RAG Pipelines", "Multi-Agent Systems"],
-      fullstack: ["FastAPI", "Node.js", "PostgreSQL", "Redis", "WebSockets"],
-      devops: ["Vercel", "Docker", "CI/CD", "Cloudflare", "Monitoring"]
-    };
-    
-    this.currentFocus = [
-      "⚡ Building autonomous AI agents that think & act",
-      "🎨 Crafting pixel-perfect, immersive user interfaces",
-      "🧠 Designing intelligent systems that learn from users",
-      "🚀 Deploying production-ready AI applications",
-      "🔗 Connecting frontend beauty with backend intelligence"
-    ];
-    
-    this.philosophy = {
-      design: "Interfaces should feel intuitive, not taught",
-      ai: "AI should augment human ability, not replace it",
-      code: "Write for humans first, machines second",
-      products: "Solve real problems, not just technical ones"
-    };
-    
-    this.achievements = {
-      built: "10+ production AI agents",
-      performance: "99/100 Lighthouse scores",
-      impact: "Reduced user friction by 70%",
-      innovation: "3 open-source AI tools",
-      recognition: "Featured in tech communities"
-    };
-  }
-  
-  workEthos() {
-    return [
-      "🔥 Ship fast, iterate faster",
-      "🧪 Experiment fearlessly",
-      "🤝 Collaborate openly",
-      "📚 Learn continuously",
-      "🌟 Inspire through creation"
-    ];
-  }
-  
-  funFacts() {
-    return {
-      origin: "Started with HTML tables, now building AI agents",
-      motivation: "Inspired by Tony Stark's Jarvis & Iron Man suit UI",
-      caffeine: "Code runs on coffee ☕ + creativity 🎨",
-      workspace: "Minimal desk, maximal screen real estate",
-      belief: "The best technology feels like magic",
-      quote: "‘First, solve the problem. Then, write the code.’ – John Johnson"
-    };
-  }
-}
 
-// Instantiate me
-const me = new AshhadKhan();
+// Ashhad Khan - Developer Profile
+const developer = {
+  name: "Muhammad Ashhad Khan",
+  title: "Frontend + AI Agentic Developer",
+  location: "Remote • Global",
+  
+  // Technical Expertise
+  expertise: {
+    frontend: ["React", "Next.js 14", "TypeScript", "TailwindCSS"],
+    ai: ["LangChain", "CrewAI", "OpenAI API", "RAG Systems"],
+    backend: ["FastAPI", "Node.js", "PostgreSQL", "Redis"],
+    tools: ["Git", "Docker", "Vercel", "Figma"]
+  },
+  
+  // Current Focus
+  currentProjects: [
+    "🤖 Building autonomous AI agents",
+    "🎨 Designing immersive user interfaces",
+    "🧠 Creating intelligent web applications",
+    "🚀 Deploying production-ready solutions"
+  ],
+  
+  // Development Philosophy
+  philosophy: [
+    "Interfaces should be intuitive",
+    "AI should augment human ability",
+    "Code should be clean and maintainable",
+    "User experience comes first"
+  ],
+  
+  // Quick Stats
+  stats: {
+    yearsExperience: "5+ years in development",
+    projectsShipped: "50+ applications",
+    aiAgentsBuilt: "10+ production agents",
+    githubStars: "100+ across repositories"
+  }
+};
 
-console.log(`✨ ${me.identity.name} - ${me.identity.role}`);
-console.log(`📍 ${me.identity.location}`);
-console.log(`🎯 Focus: ${me.currentFocus[0]}`);
-console.log(`💡 Philosophy: ${me.philosophy.design}`);
-console.log(`🏆 Built: ${me.achievements.built}`);
-console.log(`🚀 Ethos: ${me.workEthos()[0]}`);
-console.log(`🎨 Fun: ${me.funFacts().belief}`);
+// Output
+console.log(`👋 Hey! I'm ${developer.name}`);
+console.log(`🎯 ${developer.title}`);
+console.log(`📍 ${developer.location}`);
+console.log(`🚀 Currently: ${developer.currentProjects[0]}`);
+console.log(`💡 Philosophy: ${developer.philosophy[0]}`);
 
 
 ## Frontend Mastery 
