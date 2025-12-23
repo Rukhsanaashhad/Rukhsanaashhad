@@ -115,18 +115,22 @@ I am a **Frontend Alchemist** who doesn't just build UI; I build **Intelligent E
 
 ---
 
-## 🛰 Connect with the Architect
+---
 
+## 🛰 NEURAL GATEWAY: TERMINAL ACCESS
 <div align="center">
 
-mermaid
-graph LR
-  A[User] --> B{Need an AI Solution?}
-  B -- Yes --> C[Contact Ashhad]
-  B -- No --> D[Still, let's talk Tech]
-  C --> E[Future Built 🚀]
-  D --> E
-  <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DRukhsanaashhad%26label%3DPROFILE%2BVIEWS%26color%3D00D4FF%26style%3Dflat-square" alt="Views" />
-
-</div>
-
+```mermaid
+graph TD
+    A[EXTERNAL ENTITY] -- "Request Access" --> B{NEURAL GATEWAY}
+    B -- "Build Agentic Systems" --> C[INITIATE PROJECT]
+    B -- "Frontend Alchemy" --> D[CRAFT INTERFACE]
+    B -- "Tech Talk / Collaboration" --> E[KNOWLEDGE EXCHANGE]
+    C --> F[FUTURE BUILT 🚀]
+    D --> F
+    E --> F
+    F -- "CONNECT WITH ASHHAD" --> G[ACCESS GRANTED]
+    
+    style A fill:#0D1117,stroke:#00D4FF,stroke-width:2px,color:#fff
+    style B fill:#00D4FF,stroke:#fff,stroke-width:2px,color:#000
+    style G fill:#00FF88,stroke:#fff,stroke-width:4px,color:#000
