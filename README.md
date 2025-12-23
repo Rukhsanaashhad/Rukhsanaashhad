@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:004E92,100:000000&height=300&section=header&text=ASHHAD%20KHAN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FRONTEND%20ALCHEMIST%20%7C%20AI%20AGENT%20ARCHITECT&descSize=22&descAlignY=55" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=70&lines=Initializing+Neural+Interface...;Crafting+Autonomous+Agent+Systems;Mastering+React+%2B+AI+Integration;Architecting+The+Future+of+Web+3.0" />
+<p align="center">
+
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXIzZ3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <br/>
 
