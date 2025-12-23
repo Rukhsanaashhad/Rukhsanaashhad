@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:004E92,100:000000&height=300&section=header&text=ASHHAD%20KHAN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FRONTEND%20ALCHEMIST%20%7C%20AI%20AGENT%20ARCHITECT&descSize=22&descAlignY=55" width="100%" />
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SCrbsM5f3JfrH0G1l4/giphy.gif" width="120" />
+  Beautiful UIs • Smart Agents • Real-World Deployments
+</p>
+
 <p align="center">
 
 
