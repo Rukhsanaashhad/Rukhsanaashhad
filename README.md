@@ -33,13 +33,14 @@ I am a **Frontend Alchemist** who doesn't just build UI; I build **Intelligent E
 ## 🏆 System Achievements & Reputation
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rukhsanaashhad&theme=tokyonight&no-bg=true&column=4&margin-w=15" alt="Trophies" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rukhsanaashhad&show_icons=true&theme=transparent&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF&border_color=00D4FF&hide_border=false" width="100%" alt="System Metrics" />
 
   <br/>
-  
+
   <p align="center">
-    <img src="https://img.shields.io/badge/Reputation-Expert%20Developer-00D4FF?style=for-the-badge&logo=codeforces&logoColor=white" />
-    <img src="https://img.shields.io/badge/AI%20Specialist-Agent%20Architect-00FF88?style=for-the-badge&logo=openai&logoColor=black" />
+    <img src="https://img.shields.io/badge/Rank-Architect-00D4FF?style=for-the-badge&logo=opsgenie&logoColor=white" />
+    <img src="https://img.shields.io/badge/Logic-Optimized-00FF88?style=for-the-badge&logo=processwire&logoColor=black" />
+    <img src="https://img.shields.io/badge/Uptime-100%25-white?style=for-the-badge&logo=statuspage&logoColor=black" />
   </p>
 </div>
 
