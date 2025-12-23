@@ -32,7 +32,11 @@ I am a **Frontend Alchemist** who doesn't just build UI; I build **Intelligent E
 
 ---
 
+
+
 <div align="center">
+
+
 
 ## 🌌 THE ARCHITECT'S MANIFESTO
   
