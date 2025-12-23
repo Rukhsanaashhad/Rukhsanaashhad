@@ -57,7 +57,6 @@ I am a **Frontend Alchemist** who doesn't just build UI; I build **Intelligent E
 
 <br/>
 
-<img src="https://text-to-image-api.vercel.app/api?text=IMPOSSIBLE%20IS%20JUST%20A%20LINE%20OF%20CODE%20WAITING%20TO%20BE%20WRITTEN&fontSize=24&color=00D4FF&bg=0D1117&width=900&height=100" width="100%" />
 
 <br/>
 
