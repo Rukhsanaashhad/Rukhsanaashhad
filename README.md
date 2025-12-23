@@ -135,11 +135,3 @@ graph TD
     style B fill:#00D4FF,stroke:#fff,stroke-width:2px,color:#000
     style G fill:#00FF88,stroke:#fff,stroke-width:4px,color:#000
 
-⚡ ESTABLISH SECURE CONNECTION
-<p align="center"> <a href="mailto:your-email@gmail.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/ENCRYPTED_MAIL-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" height="35" /> </a> <a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LINKEDIN_NODE-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" height="35" /> </a> <a href="https://www.google.com/search?q=https://twitter.com/YOUR_TWITTER"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/X_INTERFACE-000000%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" height="35" /> </a> </p>
-
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DRukhsanaashhad%26label%3DSYSTEM%2520ACCESS%2520COUNT%26color%3D00D4FF%26style%3Dfor-the-badge" alt="Views" />
-
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D000000%26height%3D50%26section%3Dfooter%26text%3DSCANNING%2520FOR%2520NEW%2520OPPORTUNITIES...%26fontSize%3D18%26fontColor%3D00FF88%26animation%3Dtwinkling" width="100%" />
-
-</div>
