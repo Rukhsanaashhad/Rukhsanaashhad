@@ -4,7 +4,6 @@
 
 <p align="center">
 
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ashhad-khan-89484b2b5/)
@@ -136,7 +135,7 @@ graph TD
     C --> F[FUTURE BUILT 🚀]
     D --> F
     E --> F
-    F -- "CONNECT WITH ASHHAD" --> G[ACCESS GRANTED](mailto:maxtraders712@gmail.com)
+    F -- "CONNECT WITH ASHHAD" --> G[ACCESS GRANTED]
     
     style A fill:#0D1117,stroke:#00D4FF,stroke-width:2px,color:#fff
     style B fill:#00D4FF,stroke:#fff,stroke-width:2px,color:#000
