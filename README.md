@@ -31,14 +31,18 @@ I am a **Frontend Alchemist** who doesn't just build UI; I build **Intelligent E
 ---
 
 ## 🏆 System Achievements & Reputation
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Rukhsanaashhad/Rukhsanaashhad/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
   
   <br/>
   
-  <img src="https://img.shields.io/github/stars/Rukhsanaashhad?style=for-the-badge&logo=github&color=00D4FF&labelColor=000" alt="Stars" />
-  <img src="https://img.shields.io/github/repo-size/Rukhsanaashhad/Rukhsanaashhad?style=for-the-badge&logo=github&color=00D4FF&labelColor=000" alt="Repo Size" />
-  <img src="https://img.shields.io/github/languages/top/Rukhsanaashhad/Rukhsanaashhad?style=for-the-badge&logo=javascript&color=00D4FF&labelColor=000" alt="Top Language" />
+  <p align="center">
+    <img src="https://img.shields.io/github/stars/Rukhsanaashhad?style=for-the-badge&logo=github&color=00D4FF&labelColor=000" alt="Stars" />
+    <img src="https://img.shields.io/github/repo-size/Rukhsanaashhad/Rukhsanaashhad?style=for-the-badge&logo=github&color=00D4FF&labelColor=000" alt="Repo Size" />
+    <img src="https://img.shields.io/github/languages/top/Rukhsanaashhad/Rukhsanaashhad?style=for-the-badge&logo=javascript&color=00D4FF&labelColor=000" alt="Top Language" />
+    <img src="https://img.shields.io/badge/Status-Active%20Architect-00FF88?style=for-the-badge&logo=ai&logoColor=black" />
+  </p>
 </div>
 
 ---
