@@ -66,22 +66,7 @@ I am a **Frontend Alchemist** who doesn't just build UI; I build **Intelligent E
 
 ---
 
-## ⚡ Performance Diagnostics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rukhsanaashhad&theme=tokyonight&fire=00D4FF&ring=00D4FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
-  
-  <br/>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/CONTRIBUTIONS-VALUABLE-00D4FF?style=for-the-badge&logo=github" />
-    <img src="https://img.shields.io/badge/CODE_QUALITY-PREMIUM-00FF88?style=for-the-badge&logo=checkmarx" />
-  </p>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukhsanaashhad&theme=react-dark&bg_color=0D1117&hide_border=true&color=00D4FF" width="100%" />
-</div>
-
----
 
 ## 🛠 Tech Stack Matrix
 
