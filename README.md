@@ -30,20 +30,19 @@ I am a **Frontend Alchemist** who doesn't just build UI; I build **Intelligent E
 
 ---
 
-## 🏆 System Achievements & Reputation
+## 🚀 Momentum & Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rukhsanaashhad&show_icons=true&theme=transparent&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF&border_color=00D4FF&hide_border=false" width="100%" alt="System Metrics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rukhsanaashhad&theme=tokyonight&hide_border=false&stroke=00D4FF&background=0D1117" width="100%" alt="Streak Stats" />
 
   <br/>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Rank-Architect-00D4FF?style=for-the-badge&logo=opsgenie&logoColor=white" />
-    <img src="https://img.shields.io/badge/Logic-Optimized-00FF88?style=for-the-badge&logo=processwire&logoColor=black" />
-    <img src="https://img.shields.io/badge/Uptime-100%25-white?style=for-the-badge&logo=statuspage&logoColor=black" />
+    <img src="https://img.shields.io/github/stars/Rukhsanaashhad?style=flat-square&logo=github&color=00D4FF" />
+    <img src="https://img.shields.io/github/forks/Rukhsanaashhad?style=flat-square&logo=github&color=00D4FF" />
+    <img src="https://img.shields.io/github/followers/Rukhsanaashhad?style=flat-square&logo=github&color=00D4FF" />
   </p>
 </div>
-
 ---
 
 ## 🛠 Tech Stack Matrix
