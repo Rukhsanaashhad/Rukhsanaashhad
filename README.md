@@ -130,4 +130,3 @@ graph LR
 
 </div>
 
-<p align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D000000%26height%3D50%26section%3Dfooter%26text%3DTERMINATING%2520CONNECTION...%2520BYE!%26fontSize%3D20%26fontColor%3D00D4FF" width="100%" /> </p>
