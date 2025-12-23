@@ -2,20 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:004E92,100:000000&height=300&section=header&text=ASHHAD%20KHAN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FRONTEND%20ALCHEMIST%20%7C%20AI%20AGENT%20ARCHITECT&descSize=22&descAlignY=55" width="100%" />
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SCrbsM5f3JfrH0G1l4/giphy.gif" width="120" />
-  Beautiful UIs • Smart Agents • Real-World Deployments
-</p>
-
 <p align="center">
 
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ashhad-khan-89484b2b5/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukhsanaashhad)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxtraders712@gmail.com)
 
 <br/>
 
@@ -142,7 +136,7 @@ graph TD
     C --> F[FUTURE BUILT 🚀]
     D --> F
     E --> F
-    F -- "CONNECT WITH ASHHAD" --> G[ACCESS GRANTED]
+    F -- "CONNECT WITH ASHHAD" --> G[ACCESS GRANTED](mailto:maxtraders712@gmail.com)
     
     style A fill:#0D1117,stroke:#00D4FF,stroke-width:2px,color:#fff
     style B fill:#00D4FF,stroke:#fff,stroke-width:2px,color:#000
