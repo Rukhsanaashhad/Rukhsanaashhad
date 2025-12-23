@@ -33,14 +33,13 @@ I am a **Frontend Alchemist** who doesn't just build UI; I build **Intelligent E
 ## 🏆 System Achievements & Reputation
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukhsanaashhad&theme=tokyonight&area=true&hide_border=true&color=00D4FF" width="100%" alt="Activity Graph" />
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=Rukhsanaashhad&theme=tokyonight&no-bg=true&column=4&margin-w=15" alt="Trophies" width="100%" />
+
   <br/>
   
   <p align="center">
-    <img src="https://img.shields.io/github/stars/Rukhsanaashhad?style=for-the-badge&logo=github&color=00D4FF&labelColor=000" />
-    <img src="https://img.shields.io/github/repo-size/Rukhsanaashhad/Rukhsanaashhad?style=for-the-badge&logo=github&color=00D4FF&labelColor=000" />
-    <img src="https://img.shields.io/badge/Status-Active%20Architect-00FF88?style=for-the-badge&logo=ai&logoColor=black" />
+    <img src="https://img.shields.io/badge/Reputation-Expert%20Developer-00D4FF?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI%20Specialist-Agent%20Architect-00FF88?style=for-the-badge&logo=openai&logoColor=black" />
   </p>
 </div>
 
