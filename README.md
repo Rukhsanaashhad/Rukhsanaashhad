@@ -30,42 +30,50 @@ I am a **Frontend Alchemist** who doesn't just build UI; I build **Intelligent E
 
 ---
 
-## ⚡ The Architect's Protocol
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=BEYOND%20THE%20CODE&fontSize=50&fontColor=00D4FF&animation=twinkling" width="100%" />
+## 🌌 THE ARCHITECT'S MANIFESTO
+  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=EVOLVE%20OR%20DECODE&fontSize=60&fontColor=00D4FF&animation=fadeIn" width="100%" />
 
 <br/>
 
-> ### "In a world of static interfaces, be the one who crafts living systems. We don't just write lines of code; we architect the synapses of the future." 🌌
+### "Code is my canvas, Intelligence is my ink."
+> **"Static pixels are the past. My mission is to breathe life into interfaces, creating autonomous systems that don't just respond, but anticipate. I don't build software; I build the future's nervous system."**
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXIzZ3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjP3K-8K8l61G/giphy.gif" width="600" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=50&lines=%E2%9A%A1+I+TRANSFORM+IDEAS+INTO+AGENTS;%E2%9A%A1+I+ARCHITECT+INTELLIGENT+REALITIES;%E2%9A%A1+I+AM+UNSTOPPABLE" />
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=OBSESSIVE+CRAFTSMANSHIP;UNSTOPPABLE+INNOVATION;AUTONOMOUS+INTELLIGENCE;THE+FUTURE+IS+AGENTIC" />
-</p>
+| ⚡ SYSTEM PROTOCOL | 🎯 MISSION OBJECTIVE | 🔋 STATUS |
+| :--- | :--- | :--- |
+| **COGNITION** | Engineering Multi-Agent Workflows | `ACTIVE` |
+| **VISUALS** | Crafting High-Fidelity UI/UX | `OPTIMIZED` |
+| **INNOVATION** | Breaking the boundaries of AI | `MAXIMUM` |
+
+<br/>
+
+<img src="https://text-to-image-api.vercel.app/api?text=IMPOSSIBLE%20IS%20JUST%20A%20LINE%20OF%20CODE%20WAITING%20TO%20BE%20WRITTEN&fontSize=24&color=00D4FF&bg=0D1117&width=900&height=100" width="100%" />
+
+<br/>
 
 ---
 
-### 🔥 Motivation Terminal
-| Phase | Objective | Status |
-| :--- | :--- | :--- |
-| **Dream** | Conceptualize the impossible | `[ COMPLETED ]` |
-| **Design** | Architecting neural frameworks | `[ IN PROGRESS ]` |
-| **Deploy** | Scaling intelligent ecosystems | `[ UNSTOPPABLE ]` |
+### 🔱 The Creed
+* **Precision over Speed.**
+* **Intelligence over Automation.**
+* **Impact over Code.**
 
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+---
 
 </div>
 
----
 
+---
 
 
 ## 🛠 Tech Stack Matrix
