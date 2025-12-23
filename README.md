@@ -129,7 +129,7 @@ graph TD
     C --> F[FUTURE BUILT 🚀]
     D --> F
     E --> F
-    F -- "CONNECT WITH ASHHAD" --> G[ACCESS GRANTED]
+    F -- "CONNECT WITH ASHHAD" --> mailto:maxtraders712@gmail.com[ACCESS GRANTED]
     
     style A fill:#0D1117,stroke:#00D4FF,stroke-width:2px,color:#fff
     style B fill:#00D4FF,stroke:#fff,stroke-width:2px,color:#000
